@@ -1,0 +1,14 @@
+scikit-learn
+pandas
+numpy
+
+[ci]
+pytest
+pytest-cov
+black
+isort
+flake8
+mkdocs
+mkdocs-material
+mkdocstrings
+pytkdocs[numpy-style]
